@@ -25,7 +25,7 @@ The project is developed using HTML and CSS. It includes:
 
 1. *Clone the repository*:
    ```bash
-   git clone https://github.com/yourusername/login-fusion.git
+   git clone https://github.com/Vaishnavi889/Login-Fusion.git
 
 2. Open the index.html file in your browser to view the login form.
 
